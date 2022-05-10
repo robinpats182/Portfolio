@@ -1,0 +1,9 @@
+@media (max-width:768px) {
+    .img-fluid {
+        max-width: 80%;
+        height: auto;
+    }
+    .product-slider {
+        display: none;
+    }
+}
